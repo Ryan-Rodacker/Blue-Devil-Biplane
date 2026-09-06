@@ -1,6 +1,7 @@
 # Blue Devil Biplane (BDB) — SolidWorks CAD Model
 
-![Blue Devil Biplane Assembly](assembly-photo.jpg)
+![Blue Devil Biplane Assembly - View 1](BDB_Assembly_Photo1.jpeg)
+![Blue Devil Biplane Assembly - View 2](BDB_Assembly_Photo2.jpeg)
 
 ## Project Overview
 The **Blue Devil Biplane (BDB)** is a mechanical modeling project designed to master complex parametric CAD modeling and mechanical drafting within SolidWorks. Developed over a short timeline, this project demonstrates rapid software mastery, precision component modeling, multi-part assembly design, and professional engineering documentation.
@@ -12,7 +13,9 @@ The **Blue Devil Biplane (BDB)** is a mechanical modeling project designed to ma
 * **Rapid Tool Adoption:** Successfully completed the end-to-end design lifecycle within a condensed timeline, proving strong technical learning agility.
 
 ## Repository Structure
-??? assembly-photo.jpg   # Physical/Rendered view of the completed biplane
-??? BDB_Assembly.sldasm  # Main SolidWorks Assembly file
-??? README.md            # Project overview and documentation
-??? cad_files/           # Subfolder containing individual .sldprt files
+```text
++-- BDB_Assembly_Photo1.jpeg  # Primary photo/render of completed biplane
++-- BDB_Assembly_Photo2.jpeg  # Alternate angle view
++-- BDB_MAIN_ASSEMBLY.sldasm  # Main SolidWorks Assembly file
++-- README.md                 # Project overview and documentation
++-- cad_files/                # Subfolder containing individual .sldprt files
